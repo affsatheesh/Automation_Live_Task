@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="69218" started-at="2022-01-13T06:54:53Z" finished-at="2022-01-13T06:56:02Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="69218" started-at="2022-01-13T06:54:53Z" finished-at="2022-01-13T06:56:02Z">
+      <class name="Test.Task">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:Test.Task@5386659f]" name="launchbrowser" is-config="true" duration-ms="9444" started-at="2022-01-13T12:24:43Z" finished-at="2022-01-13T12:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="setUpObjects()[pri:0, instance:Test.Task@5386659f]" name="setUpObjects" is-config="true" duration-ms="29" started-at="2022-01-13T12:24:53Z" finished-at="2022-01-13T12:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpObjects -->
+        <test-method status="PASS" signature="firstTask()[pri:0, instance:Test.Task@5386659f]" name="firstTask" duration-ms="69173" started-at="2022-01-13T12:24:53Z" finished-at="2022-01-13T12:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTask -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Test.Task@5386659f]" name="teardown" is-config="true" duration-ms="0" started-at="2022-01-13T12:26:02Z" finished-at="2022-01-13T12:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.Task -->
+    </test> <!-- Login Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

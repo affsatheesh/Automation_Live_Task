@@ -1,0 +1,64 @@
+11:28:44.881 [main] INFO  POM.TaskPOM - Enter the Mobile Devices Details
+11:28:49.072 [main] INFO  POM.TaskPOM - Enter the Sell Products More then one Details
+11:28:53.223 [main] INFO  POM.TaskPOM - Enter the Repeat purchase Details
+11:28:57.355 [main] INFO  POM.TaskPOM - Enter the impulse Purchase Details
+11:29:01.479 [main] INFO  POM.TaskPOM - Enter the socialMediaFollowers Details
+11:39:09.743 [main] INFO  Configuration.SeleniumBase - Open the Browser
+11:39:19.449 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+11:39:55.716 [main] INFO  Configuration.SeleniumBase - Open the Browser
+11:40:04.635 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+11:41:14.708 [main] INFO  Configuration.SeleniumBase - Open the Browser
+11:41:21.788 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+11:42:05.803 [main] INFO  Configuration.SeleniumBase - Open the Browser
+11:42:13.347 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+11:44:08.600 [main] INFO  Configuration.SeleniumBase - Open the Browser
+11:44:14.900 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+11:44:15.050 [main] INFO  POM.TaskPOM - Switching to Frame
+11:44:21.786 [main] INFO  POM.TaskPOM - Enter the Products Category Details
+11:44:28.213 [main] INFO  POM.TaskPOM - Enter the RevenueDetails
+11:44:34.476 [main] INFO  POM.TaskPOM - Enter the Mobile Apps Notification Details
+11:44:40.656 [main] INFO  POM.TaskPOM - Enter the Store Traffic Details
+11:44:46.832 [main] INFO  POM.TaskPOM - Enter the Mobile Devices Details
+11:44:53.025 [main] INFO  POM.TaskPOM - Enter the Sell Products More then one Details
+11:44:59.157 [main] INFO  POM.TaskPOM - Enter the Repeat purchase Details
+11:45:05.296 [main] INFO  POM.TaskPOM - Enter the impulse Purchase Details
+11:45:11.509 [main] INFO  POM.TaskPOM - Enter the socialMediaFollowers Details
+11:46:10.777 [main] INFO  Configuration.SeleniumBase - Open the Browser
+11:46:19.472 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+11:46:19.572 [main] INFO  POM.TaskPOM - Switching to Frame
+11:46:25.980 [main] INFO  POM.TaskPOM - Enter the Products Category Details
+11:46:32.243 [main] INFO  POM.TaskPOM - Enter the RevenueDetails
+11:46:38.416 [main] INFO  POM.TaskPOM - Enter the Mobile Apps Notification Details
+11:46:44.626 [main] INFO  POM.TaskPOM - Enter the Store Traffic Details
+11:46:50.820 [main] INFO  POM.TaskPOM - Enter the Mobile Devices Details
+11:46:57.011 [main] INFO  POM.TaskPOM - Enter the Sell Products More then one Details
+11:47:03.134 [main] INFO  POM.TaskPOM - Enter the Repeat purchase Details
+11:47:09.284 [main] INFO  POM.TaskPOM - Enter the impulse Purchase Details
+11:47:15.417 [main] INFO  POM.TaskPOM - Enter the socialMediaFollowers Details
+12:02:02.899 [main] INFO  Configuration.SeleniumBase - Open the Browser
+12:02:10.813 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+12:02:10.946 [main] INFO  POM.TaskPOM - Switching to Frame
+12:02:57.565 [main] INFO  POM.TaskPOM - Enter the Products Category Details
+12:03:47.974 [main] INFO  POM.TaskPOM - Enter the RevenueDetails
+12:19:01.052 [main] INFO  Configuration.SeleniumBase - Open the Browser
+12:19:08.097 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+12:19:08.201 [main] INFO  POM.TaskPOM - Switching to Frame
+12:19:55.054 [main] INFO  POM.TaskPOM - Enter the Products Category Details
+12:21:02.177 [main] INFO  Configuration.SeleniumBase - Open the Browser
+12:21:08.604 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+12:21:08.709 [main] INFO  POM.TaskPOM - Switching to Frame
+12:21:14.114 [main] INFO  POM.TaskPOM - Enter the Products Category Details
+12:21:19.344 [main] INFO  POM.TaskPOM - Enter the RevenueDetails
+12:21:24.585 [main] INFO  POM.TaskPOM - Enter the Mobile Apps Notification Details
+12:21:29.801 [main] INFO  POM.TaskPOM - Enter the Store Traffic Details
+12:21:34.969 [main] INFO  POM.TaskPOM - Enter the Mobile Devices Details
+12:21:40.218 [main] INFO  POM.TaskPOM - Enter the Sell Products More then one Details
+12:21:45.454 [main] INFO  POM.TaskPOM - Enter the Repeat purchase Details
+12:21:50.618 [main] INFO  POM.TaskPOM - Enter the impulse Purchase Details
+12:21:55.856 [main] INFO  POM.TaskPOM - Enter the socialMediaFollowers Details
+12:24:46.356 [main] INFO  Configuration.SeleniumBase - Open the Browser
+12:24:53.091 [main] INFO  Configuration.SeleniumBase - Open the Test URL https://www.vajro.com/quiz
+12:24:53.201 [main] INFO  POM.TaskPOM - Switching to Frame
+12:24:59.544 [main] INFO  POM.TaskPOM - Enter the Products Category Details
+12:25:05.897 [main] INFO  POM.TaskPOM - Enter the RevenueDetails
+12:25:12.127 [main] INFO  POM.TaskPOM - Enter the Mobile Apps Notification Details

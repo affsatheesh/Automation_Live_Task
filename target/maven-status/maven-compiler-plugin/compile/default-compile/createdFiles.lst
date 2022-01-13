@@ -1,0 +1,7 @@
+Util\MyScreenRecorder.class
+Test\Task.class
+Configuration\SeleniumBase.class
+Helper\GenricHelper.class
+Util\ExtentReporterNG.class
+POM\TaskPOM.class
+Util\Listeners.class
